@@ -2,7 +2,7 @@
 
 ## 🚀 Senior .NET Backend Developer & Kubernetes Architect
 
-I'm a passionate **Senior Backend Developer** with 5+ years of experience building scalable, high-performance systems. I specialize in modern .NET development, microservices architecture, and cloud-native solutions.
+I'm a passionate **Senior Backend Developer** with 13+ years working in the tech industry and over 5+ years building scalable, high-performance systems. I specialize in modern .NET development, microservices architecture, and cloud-native solutions.
 
 ### 🔥 What I Do
 
