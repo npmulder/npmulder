@@ -68,43 +68,6 @@ I'm a passionate **Senior Backend Developer** with 15+ years working in the tech
 
 ---
 
-## 🚧 Featured Projects
-
-<!-- ### 🎮 [GameLeaderboard-API](https://github.com/npmulder/GameLeaderboard-API)
-Enterprise gaming leaderboard system showcasing microservices, real-time features, and scalable architecture.
-- **Tech**: .NET 8, SignalR, Redis, RabbitMQ, Kubernetes
-- **Features**: Real-time updates, anti-cheat measures, tournament system
-
-### 💰 [FinTech-Payment-API](https://github.com/npmulder/FinTech-Payment-API)
-Production-ready payment processing system demonstrating financial services expertise.
-- **Tech**: .NET 8, CQRS, Event Sourcing, PCI DSS patterns
-- **Features**: Multi-currency, fraud detection, compliance
-
-### 🔒 [CryptoVault](https://github.com/npmulder/CryptoVault)
-Secure cryptocurrency seed phrase storage with enterprise security patterns.
-- **Tech**: .NET 8, Clean Architecture, AES-256 encryption
-- **Features**: JWT auth, audit trails, tokenization
-
-### 🧪 [DotNet-Testing-Framework](https://github.com/npmulder/DotNet-Testing-Framework)
-Advanced integration testing framework with OpenTelemetry observability.
-- **Tech**: NUnit, TestContainers, OpenTelemetry
-- **Features**: Fluent APIs, trace debugging, automated setup
-
-### 📊 [ObservabilityStack](https://github.com/npmulder/ObservabilityStack)
-Comprehensive monitoring and observability platform for .NET microservices.
-- **Tech**: Elastic Stack, Jaeger, Prometheus, Grafana
-- **Features**: Distributed tracing, SLI/SLO monitoring, alerting -->
-
----
-
-<!-- ## 📈 GitHub Stats
-
-![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=npmulder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npmulder&layout=compact&theme=tokyonight&hide_border=true) -->
-
----
-
 ## 🎯 Currently Working On
 
 - 🔨 Building enterprise-grade microservices examples
